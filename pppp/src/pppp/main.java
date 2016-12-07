@@ -6,6 +6,12 @@ public class main {
 		// TODO Auto-generated method stub
 		
 		System.out.print("込込込込込");
+		System.out.println("hhhhhhh");
+		System.out.print("込込込込込");
+		System.out.println("hhhhhhh");
+		System.out.print("込込込込込");
+		System.out.println("hhhhhhh");
+		
 
 	}
 
